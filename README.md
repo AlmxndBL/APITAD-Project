@@ -1,1 +1,1 @@
-**Research and development of an automated image captioning system designed to assist the visually impaired.**
+**Research and development of an automated image captioning system designed to assist the visually impaired.**(NSC Project)
